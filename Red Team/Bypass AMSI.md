@@ -1,4 +1,4 @@
-El script de PowerShell intenta deshabilitar el Servicio de Inspección Antimalware (AMSI) de Microsoft, una característica de seguridad de Windows que permite a las aplicaciones antivirus escanear scripts de PowerShell en busca de comportamientos maliciosos.
+El script de PowerShell intenta deshabilitar el Servicio Interfaz de examen antimalware (AMSI) de Microsoft, una característica de seguridad de Windows que permite a las aplicaciones antivirus escanear scripts de PowerShell en busca de comportamientos maliciosos.
 
 Primero, la función **`Is-AMSIDisabled`** verifica si AMSI está deshabilitado, utilizando **`Get-variable`** para obtener una variable específica y comprobando si el campo 'amsi' es verdadero.
 
