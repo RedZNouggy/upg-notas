@@ -77,4 +77,4 @@ Una vez que los datos se han decodificado en una cadena de texto, se ejecutan co
 
 ## Advertencia
 
-Este script puede ser utilizado para fines maliciosos si cae en las manos equivocadas. Es de uso exclusivo para pruebas de Red Team, asegúrate de entender completamente lo que hace un script antes de ejecutarlo. No me hago responsables de cualquier uso indebido de este script.
+Este script puede ser utilizado para fines maliciosos si cae en las manos equivocadas. Es de uso exclusivo para pruebas de Red Team, asegúrate de entender completamente lo que hace el script antes de ejecutarlo. No me hago responsable de cualquier uso indebido de este script.
