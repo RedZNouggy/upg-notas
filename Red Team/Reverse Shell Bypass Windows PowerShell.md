@@ -4,7 +4,7 @@ Este script de PowerShell es un cliente de shell inverso, permite eludir de mane
 Dentro del bucle de lectura, el script lee los datos del búfer y los decodifica utilizando la codificación ASCII. 
 
 ## POC
-[![Bypass Reverse Shell Windows Defender](https://i.imgur.com/M968BwB.png)](https://www.google.com)
+[![Bypass Reverse Shell Windows Defender](https://i.imgur.com/M968BwB.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7196028677061586944/)
 
 ## Funciones
 
